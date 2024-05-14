@@ -1,1 +1,3 @@
-# neural_network_assignment
+# neural network assignment
+
+Everything is inside the ipynb files :)
